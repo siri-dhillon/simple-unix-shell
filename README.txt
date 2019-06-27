@@ -8,9 +8,9 @@ AUTHORS:
 	+-----------------------+-------------+--------------+
 	| NAME                  | Student No. | SFU Email    |
 	+-----------------------+-------------+--------------+
-	| John Chan             | 301306272   | jcc79@sfu.ca |
+	| John Chan             | XXXXXXXXXX  | xxxxx@sfu.ca |
 	+-----------------------+-------------+--------------+
-	| Sirpreet Kaur Dhillon | 301318486   | skd24@sfu.ca |
+	| Sirpreet Kaur Dhillon | xxxxxxxxx   | xxxxx@sfu.ca |
 	+-----------------------+-------------+--------------+
 
 -----------------------
